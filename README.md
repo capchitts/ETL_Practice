@@ -1,2 +1,2 @@
 # ETL_Practice
-Basic ETL operations
+Basic ETL operations using reuests and BeautifulSoup library , pandas.
